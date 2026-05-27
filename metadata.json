@@ -1,0 +1,6 @@
+{
+  "name": "Asset Manager",
+  "description": "A robust asset tracking and management system featuring role-based access control, interactive monitoring dashboards, lifecycle tracking, and emergency admin recovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
